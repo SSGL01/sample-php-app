@@ -1,1 +1,1 @@
-Sample PHP page to test Rdhat OpenShift
+Sample PHP page to test Redhat OpenShift
