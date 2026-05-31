@@ -1,4 +1,4 @@
 <?php
-print "Hello OpenShift!<br>";
-print "PHP Version: " . PHP_VERSION;
+print "Hello, World! php version is " . PHP_VERSION . "\n";
+print "A change is coming!\n";
 ?>
